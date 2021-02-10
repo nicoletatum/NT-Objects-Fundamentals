@@ -7,7 +7,7 @@
 1. Navigate to the directory in which you would like to clone this repository
 1. Clone this repo: `git clone git@github.com:BryanNilsen/NSS-Objects-Fundamentals.git`
 1. CD into the project you just cloned: `cd NSS-Objects-Fundamentals`
-1. Remove the path to the remote Github repository `git remote rm git@github.com:BryanNilsen/NSS-Objects-Fundamentals.git`
+1. Remove the path to the remote Github repository `git remote rm origin git@github.com:BryanNilsen/NSS-Objects-Fundamentals.git`
 
 ### Next - On GitHub:
 
